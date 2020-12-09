@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "GridSplitterWinUIPreview3 (Package)", "GridSplitterWinUIPreview3 (Package)\GridSplitterWinUIPreview3 (Package).wapproj", "{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitterWinUIPreview3", "GridSplitterWinUIPreview3\GridSplitterWinUIPreview3.csproj", "{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|arm64.ActiveCfg = Debug|arm64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|arm64.Build.0 = Debug|arm64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|arm64.Deploy.0 = Debug|arm64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|x64.ActiveCfg = Debug|x64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|x64.Build.0 = Debug|x64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|x64.Deploy.0 = Debug|x64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|x86.ActiveCfg = Debug|x86
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|x86.Build.0 = Debug|x86
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Debug|x86.Deploy.0 = Debug|x86
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|arm64.ActiveCfg = Release|arm64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|arm64.Build.0 = Release|arm64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|arm64.Deploy.0 = Release|arm64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|x64.ActiveCfg = Release|x64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|x64.Build.0 = Release|x64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|x64.Deploy.0 = Release|x64
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|x86.ActiveCfg = Release|x86
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|x86.Build.0 = Release|x86
+		{5B2DB60E-07F6-419F-8BED-DE5769B4BA84}.Release|x86.Deploy.0 = Release|x86
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Debug|arm64.ActiveCfg = Debug|arm64
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Debug|arm64.Build.0 = Debug|arm64
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Debug|x64.ActiveCfg = Debug|x64
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Debug|x64.Build.0 = Debug|x64
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Debug|x86.ActiveCfg = Debug|x86
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Debug|x86.Build.0 = Debug|x86
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Release|arm64.ActiveCfg = Release|arm64
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Release|arm64.Build.0 = Release|arm64
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Release|x64.ActiveCfg = Release|x64
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Release|x64.Build.0 = Release|x64
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Release|x86.ActiveCfg = Release|x86
+		{8FBD44F0-CCF0-4E44-BCDF-EDC3D4B948FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A9CA59-D0EE-4F8F-B57D-78F7E6CF1501}
+	EndGlobalSection
+EndGlobal

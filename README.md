@@ -11,7 +11,7 @@ The UWP sample code works as expected - as the user hovers over the GridSplitter
 In WinUI3 Preview3, the cursor does not change to the Resize cursor icon while adjusting the GridSplitter as it does in UWP.
 
 **Steps to reproduce the bug**
-1. Clone the [WinUI3 Preview 3 Problems GridSplitter repository](https://github.com/eleanorleffler/WinUI3Preview3_Problems_GridSplitter).
+1. Clone the repository.
 2. Go to the GridSplitterWinUIPreview3 folder.
 3. Open the GridSplitterWinUIPreview3 solution in Visual Studio 2019 Preview.
 4. Build and run with Debug x64.
@@ -23,7 +23,11 @@ We expect the cursor icon to change to the Resize icon when hovering over the Gr
 
 **Screenshots**
 
+![GridSplitterExpectedBehavior](https://github.com/eleanorleffler/WinUI3Preview3_Problems_GridSplitter/blob/main/Screenshots/ExpectedBehavior.png)
+
 Screenshot#1 - Expected Behavior
+
+![GridSplitterCurrentBehavior](https://github.com/eleanorleffler/WinUI3Preview3_Problems_GridSplitter/blob/main/Screenshots/CurrentBehavior.PNG)
 
 Screenshot#2 - Current Behavior
 
